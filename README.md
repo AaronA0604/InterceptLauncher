@@ -7,6 +7,8 @@ There are two NEMA17 stepper motors for each of the rings. The first is located 
 
 The tube in the middle is used to represent where the actual launch mechanism would go. It would work best with a coilgun, since that can be very accurate and achieve very fast velocities, although one could attach any piece they wanted there that suits their project best.
 
+Here is the link to the Onshape project: https://cad.onshape.com/documents/64758439962332d73dfc051c/w/b5ee3b46b1b85b50c5b83ff3/e/844b2b39052994485559e719
+
 <img width="529" height="565" alt="Screenshot 2026-10-18 at 6 13 49 PM" src="https://github.com/user-attachments/assets/b73cfa82-cf05-48e5-87a8-e5bf81b5a163" />
 <img width="859" height="623" alt="Screenshot 2026-10-25 at 4 45 38 PM" src="https://github.com/user-attachments/assets/b9bbbded-0d52-4157-bf04-482f371cdcd5" />
 <img width="697" height="679" alt="Screenshot 2026-10-25 at 4 46 03 PM" src="https://github.com/user-attachments/assets/079159df-368f-4825-bff3-3dc570fae34b" />
