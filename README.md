@@ -1,5 +1,5 @@
 # InterceptLauncher
-I came up with the idea for InterceptLauncher from a hackathon I went to. We made a project called AstroShield (found here [AstroShield](https://github.com/dbanerjee622/AstroShield)), which detects space debris heading towards either satellites, spaceships, space stations, etc., and launches an intercept to knock it off course. This is were Intercept Launcher comes in.
+I came up with the idea for InterceptLauncher from a hackathon I went to. We made a project called [AstroShield](https://github.com/dbanerjee622/AstroShield), which detects space debris heading towards either satellites, spaceships, space stations, etc., and launches an intercept to knock it off course. This is were Intercept Launcher comes in.
 
 So this is a gimbal based device that is a prototype of launcher we would integrate into AstroShield. The gimbal allows it to turn to any angel, by first turning one ring for one axis, and then turning the other ring on the other axis.
 
